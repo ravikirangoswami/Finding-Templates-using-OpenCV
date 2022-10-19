@@ -1,1 +1,1 @@
-# Finding-templates-using-OpenCV
+# Automated Visual testing using OpenCV
